@@ -1,0 +1,36 @@
+/*Q1*/
+h1{
+    color:blue;
+}
+/*Q2*/
+.main2 li{
+    background: #c83;
+}
+/*Q3*/
+.main1 li{
+    list-style-type: none;
+}
+/*Q4*/
+ figure img{
+    display: inline;
+    max-width: 300px;
+ }
+ /*Q5*/
+ figure img{
+    float: left;
+    width: 20%;   
+ }
+ /*Q6*/
+ figure img{
+     margin: 20px;
+ }
+ 
+
+
+
+
+
+
+
+
+
